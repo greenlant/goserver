@@ -3,7 +3,7 @@
 #### Languages used
 > HTML (for a simple form and index) <br />
 > GO (main language) <br />
->> Packages used in go  <br />
->>> fmt  <br />
->>> log  <br />
->>> net/http
+ Packages used in go  <br />
+> fmt  <br />
+> log  <br />
+> net/http
